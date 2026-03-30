@@ -1,3 +1,3 @@
 function shouldRetry(error) {
-  return null;
+  return false;
 }
