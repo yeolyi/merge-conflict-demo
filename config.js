@@ -1,4 +1,4 @@
 // Service configuration
-const TIMEOUT_MS = 5000;
-const MAX_RETRIES = 3;
-const LOG_LEVEL = "warn";
+const TIMEOUT_MS = 30000;
+const MAX_RETRIES = 10;
+const LOG_LEVEL = "debug";
